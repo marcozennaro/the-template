@@ -1,8 +1,8 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[Introduction]
+@title[Test 1 2 3]
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+GitPitch<br>*The Template and Prova 1 2 3*
 @snapend
 
 @snap[south-west byline text-white text-06]
